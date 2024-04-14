@@ -7,7 +7,7 @@ Puntos hechos
 5 Y
 6 Y
 7 N
-8 N 
+8 Y
 9 Y
 10 N
 11 N 
@@ -17,4 +17,5 @@ Puntos hechos
 15 N 
 16 N
 17 N
-18 N
+18 Y
+
